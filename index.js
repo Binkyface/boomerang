@@ -1,6 +1,6 @@
 const Command = require('command');
 
-module.exports = function AutoLockon(dispatch) {
+module.exports = function Boomerang(dispatch) {
 	const command = Command(dispatch);
 	let enabled = false;
 	
